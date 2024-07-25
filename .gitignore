@@ -1,0 +1,4 @@
+.venv/
+NOTES.md
+yolov8n.pt
+runs/
